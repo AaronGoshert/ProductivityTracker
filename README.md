@@ -1,2 +1,4 @@
 # ProductivityTracker
-A simple productivity tracker I solo developed to make sure I was hitting my daily goals.
+A simple productivity tracker I solo developed using Java, Maven and Java Swing.
+
+Simply download and open LPtracker.JAR to run!
